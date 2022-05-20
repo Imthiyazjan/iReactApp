@@ -1,0 +1,17 @@
+body{        
+    background-color: #333945;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+.button{
+    background-color: #26ae60;
+    border:none;
+    color: white;
+    padding: 15px 30px;
+    text-decoration: none;
+    font-size: medium;    
+}
