@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/iReactApp/static/css/main.86927dd3.css",
+    "main.js": "/iReactApp/static/js/main.628d988d.js",
+    "index.html": "/iReactApp/index.html",
+    "main.86927dd3.css.map": "/iReactApp/static/css/main.86927dd3.css.map",
+    "main.628d988d.js.map": "/iReactApp/static/js/main.628d988d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86927dd3.css",
+    "static/js/main.628d988d.js"
+  ]
+}
